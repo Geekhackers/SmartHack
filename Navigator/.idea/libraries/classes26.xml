@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="classes26">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

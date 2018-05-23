@@ -1,0 +1,48 @@
+<component name="libraryTable">
+  <library name="release">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-316fb0119afdc2cb5317f5798db81d93ef6502fa.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-951c22165deea5a63886333a200fe641145c7d82.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/internal_impl-23.1.1-5d0b6dfc09e02ccdec9f95752dd64232539da7e7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-6dcaed471cdbec373f0f86c680625cee9fad81f9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-a295aaf53bee5c66f4e5904effdbed3dacaf2ac3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-e721bbd4b5e6cc9dff577ae84e09112a45211c30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-09197f4844d78ec1f5e56df2b6b92fe7ada255a5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-7677dc6544b334b4f2cad84bcc4472715edbff6a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-95eea00cc7325cdc4f23c7c13843427df423da93.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-090deff38698de887e00acaa702e0143a5d02238.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-f7b65505cfaf9f7ff3b62a62895e53e940bc6839.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-688249f9e9accfba5fb7b2f876304875dd4a2b3c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/simple-xml-2.7.1-8acd4f3f143c0401873ba9e082a0502cf7653735.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-34ae4627eba2ae6a07f341e29ca10234131e3c13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-a795f632ceca9cb3f65d0705aa5c0a19bdde14d7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-1d195f0bb09804472db4280a1bf351300922565c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-8f4980a765ed85594714bf1223696c6b353979b5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-9c049fe52d2178156a00e998001e3350e9885351.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-cb477348a1208b2ef48dfd8d2207fc2656405d56.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-d96c1ba152a22700df4a9c4d656f6dfb1d4b217a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/commons-io-2.4-ea850aa46d28b7dfc377ae7e0901f340dd5f977f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-3864f9abac7f2883ef799f4adf13a3550eb85d8d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-315d27123ed3c17bc18d58b6bd13903b48660c4d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-58cfc64531eb4c2907832a772600cd78d0dcafca.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-47c7ecb6665b7f3837820297673e085b0312ce1e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-94b9cd104e903a6f5306f52e0ac230cf2f52d1a3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-1ee6501b6c33bf91043276c497cac6d4140ac20f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-d56959fc9ed32591d9a04040f7916684b8ccb5d8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/ormlite-core-4.48-69ae2bc961d3b17438c6d11c2101e0cc273a3ebd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-7d422a00edf26a7eea7c97b8e684da04d1237301.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-b3db2fa882bd3c3e4d4f6d2a46cdc0fa9a478801.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-b8cd987e22828ec44acb54ebf7b9734332fb13c7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/internal_impl-22.2.0-80b5200c829461f771221b3a724df959c3c7239c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/ormlite-android-4.48-896d7ad9f2409a0a6d006ee09d376b315da5097c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-b30a3977c19a1fea56ae3288d1f0f744a8959ab4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-f6589852a843a72ae225f00f8a56dd92e545e078.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-3bc001dd456ddad36f73feeb550d98484273f9a5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/support-annotations-23.1.1-5f09ef30380f1f3ceb0235c4e2bf6e1ee2dd161f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/universal-image-loader-1.8.6-202c100ec8058d65a0063cfc1f7798a4bb982e24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guide/app/build/intermediates/pre-dexed/release/classes-813287a114066f8bef636ab1391d4d32745c79f0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
